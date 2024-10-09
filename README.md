@@ -17,11 +17,11 @@ SmartInfraOps is a robust automation framework designed to streamline infrastruc
 
 ## Features
 
-Infrastructure Provisioning: Use Terraform to define and provision scalable cloud infrastructure across various providers.
-Configuration Management: Leverage Ansible for automating application deployment and configuration on the provisioned resources.
-Modular Design: Organize your Terraform and Ansible scripts into reusable modules for enhanced maintainability and collaboration.
-Seamless Integration: Effortlessly integrate Terraform and Ansible workflows for a streamlined DevOps process.
-Environment Consistency: Ensure consistent environments across development, testing, and production with automated provisioning and configuration.
+- Infrastructure Provisioning: Use Terraform to define and provision scalable cloud infrastructure across various providers.
+- Configuration Management: Leverage Ansible for automating application deployment and configuration on the provisioned resources.
+- Modular Design: Organize your Terraform and Ansible scripts into reusable modules for enhanced maintainability and collaboration.
+- Seamless Integration: Effortlessly integrate Terraform and Ansible workflows for a streamlined DevOps process.
+- Environment Consistency: Ensure consistent environments across development, testing, and production with automated provisioning and configuration.
 
 ## Installation
 
